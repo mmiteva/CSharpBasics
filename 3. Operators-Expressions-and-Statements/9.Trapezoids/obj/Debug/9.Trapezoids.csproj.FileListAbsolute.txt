@@ -1,0 +1,4 @@
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\3. Operators-Expressions-and-Statements\9.Trapezoids\bin\Debug\9.Trapezoids.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\3. Operators-Expressions-and-Statements\9.Trapezoids\bin\Debug\9.Trapezoids.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\3. Operators-Expressions-and-Statements\9.Trapezoids\obj\Debug\9.Trapezoids.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\3. Operators-Expressions-and-Statements\9.Trapezoids\obj\Debug\9.Trapezoids.pdb

@@ -1,0 +1,5 @@
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\AgeAfter10Years\bin\Debug\AgeAfter10Years.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb

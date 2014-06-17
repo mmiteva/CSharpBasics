@@ -1,0 +1,4 @@
+c:\users\mariya\documents\visual studio 2012\Projects\06.Loops\02.NumNotDivisibleBy3And7\bin\Debug\02.NumNotDivisibleBy3And7.exe
+c:\users\mariya\documents\visual studio 2012\Projects\06.Loops\02.NumNotDivisibleBy3And7\bin\Debug\02.NumNotDivisibleBy3And7.pdb
+c:\users\mariya\documents\visual studio 2012\Projects\06.Loops\02.NumNotDivisibleBy3And7\obj\Debug\02.NumNotDivisibleBy3And7.exe
+c:\users\mariya\documents\visual studio 2012\Projects\06.Loops\02.NumNotDivisibleBy3And7\obj\Debug\02.NumNotDivisibleBy3And7.pdb

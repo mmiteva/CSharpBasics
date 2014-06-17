@@ -1,0 +1,7 @@
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\Solution1\2.PrintCompanyInformation\bin\Debug\2.PrintCompanyInformation.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\Solution1\2.PrintCompanyInformation\bin\Debug\2.PrintCompanyInformation.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\Solution1\2.PrintCompanyInformation\obj\Debug\2.PrintCompanyInformation.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\Solution1\2.PrintCompanyInformation\obj\Debug\2.PrintCompanyInformation.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\Solution1\2.PrintCompanyInformation\obj\Debug\2.PrintCompanyInformation.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\2.PrintCompanyInformation\obj\Debug\2.PrintCompanyInformation.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\2.PrintCompanyInformation\obj\Debug\2.PrintCompanyInformation.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\PrintSequence\bin\Debug\PrintSequence.exe.config
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\PrintSequence\bin\Debug\PrintSequence.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\PrintSequence\bin\Debug\PrintSequence.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\PrintSequence\obj\Debug\PrintSequence.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\PrintSequence\obj\Debug\PrintSequence.csprojResolveAssemblyReference.cache

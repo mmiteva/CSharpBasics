@@ -1,0 +1,6 @@
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 2. Float Or Double\bin\Debug\Problem_2.Float_Or_Double.exe.config
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 2. Float Or Double\bin\Debug\Problem_2.Float_Or_Double.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 2. Float Or Double\bin\Debug\Problem_2.Float_Or_Double.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 2. Float Or Double\obj\Debug\Problem 2. Float Or Double.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 2. Float Or Double\obj\Debug\Problem_2.Float_Or_Double.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 2. Float Or Double\obj\Debug\Problem_2.Float_Or_Double.pdb

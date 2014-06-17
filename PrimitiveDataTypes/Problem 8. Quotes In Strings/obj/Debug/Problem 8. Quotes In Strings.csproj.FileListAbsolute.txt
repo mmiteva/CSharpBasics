@@ -1,0 +1,6 @@
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 8. Quotes In Strings\bin\Debug\Problem_8.Quotes_In_Strings.exe.config
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 8. Quotes In Strings\bin\Debug\Problem_8.Quotes_In_Strings.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 8. Quotes In Strings\bin\Debug\Problem_8.Quotes_In_Strings.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 8. Quotes In Strings\obj\Debug\Problem 8. Quotes In Strings.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 8. Quotes In Strings\obj\Debug\Problem_8.Quotes_In_Strings.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 8. Quotes In Strings\obj\Debug\Problem_8.Quotes_In_Strings.pdb

@@ -1,0 +1,5 @@
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\3. Operators-Expressions-and-Statements\4.Rectangles\obj\Debug\4.Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\3. Operators-Expressions-and-Statements\4.Rectangles\bin\Debug\4.Rectangles.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\3. Operators-Expressions-and-Statements\4.Rectangles\bin\Debug\4.Rectangles.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\3. Operators-Expressions-and-Statements\4.Rectangles\obj\Debug\4.Rectangles.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\3. Operators-Expressions-and-Statements\4.Rectangles\obj\Debug\4.Rectangles.pdb

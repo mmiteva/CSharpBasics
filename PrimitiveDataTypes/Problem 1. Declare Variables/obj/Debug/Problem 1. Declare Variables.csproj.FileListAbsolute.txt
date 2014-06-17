@@ -1,0 +1,6 @@
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 1. Declare Variables\bin\Debug\Problem_1.Declare_Variables.exe.config
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 1. Declare Variables\bin\Debug\Problem_1.Declare_Variables.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 1. Declare Variables\bin\Debug\Problem_1.Declare_Variables.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 1. Declare Variables\obj\Debug\Problem 1. Declare Variables.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 1. Declare Variables\obj\Debug\Problem_1.Declare_Variables.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 1. Declare Variables\obj\Debug\Problem_1.Declare_Variables.pdb

@@ -1,0 +1,4 @@
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\3. Operators-Expressions-and-Statements\10.PointInsideOutside\bin\Debug\10.PointInsideOutside.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\3. Operators-Expressions-and-Statements\10.PointInsideOutside\bin\Debug\10.PointInsideOutside.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\3. Operators-Expressions-and-Statements\10.PointInsideOutside\obj\Debug\10.PointInsideOutside.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\3. Operators-Expressions-and-Statements\10.PointInsideOutside\obj\Debug\10.PointInsideOutside.pdb

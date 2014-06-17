@@ -1,0 +1,6 @@
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe.config
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb

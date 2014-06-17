@@ -1,0 +1,5 @@
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\PrintNumbers\obj\Debug\PrintNumbers.pdb

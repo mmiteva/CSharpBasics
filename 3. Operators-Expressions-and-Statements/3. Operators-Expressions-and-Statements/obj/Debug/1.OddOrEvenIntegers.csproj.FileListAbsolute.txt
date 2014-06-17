@@ -1,0 +1,5 @@
+c:\users\mariya\documents\visual studio 2012\Projects\3. Operators-Expressions-and-Statements\3. Operators-Expressions-and-Statements\bin\Debug\_3.Operators_Expressions_and_Statements.exe
+c:\users\mariya\documents\visual studio 2012\Projects\3. Operators-Expressions-and-Statements\3. Operators-Expressions-and-Statements\bin\Debug\_3.Operators_Expressions_and_Statements.pdb
+c:\users\mariya\documents\visual studio 2012\Projects\3. Operators-Expressions-and-Statements\3. Operators-Expressions-and-Statements\obj\Debug\1.OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+c:\users\mariya\documents\visual studio 2012\Projects\3. Operators-Expressions-and-Statements\3. Operators-Expressions-and-Statements\obj\Debug\_3.Operators_Expressions_and_Statements.exe
+c:\users\mariya\documents\visual studio 2012\Projects\3. Operators-Expressions-and-Statements\3. Operators-Expressions-and-Statements\obj\Debug\_3.Operators_Expressions_and_Statements.pdb

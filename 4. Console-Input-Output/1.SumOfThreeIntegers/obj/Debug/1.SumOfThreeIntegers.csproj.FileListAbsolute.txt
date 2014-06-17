@@ -1,0 +1,7 @@
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\Solution1\1.SumOfThreeIntegers\bin\Debug\1.SumOfThreeIntegers.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\Solution1\1.SumOfThreeIntegers\bin\Debug\1.SumOfThreeIntegers.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\Solution1\1.SumOfThreeIntegers\obj\Debug\1.SumOfThreeIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\Solution1\1.SumOfThreeIntegers\obj\Debug\1.SumOfThreeIntegers.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\Solution1\1.SumOfThreeIntegers\obj\Debug\1.SumOfThreeIntegers.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\1.SumOfThreeIntegers\obj\Debug\1.SumOfThreeIntegers.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\1.SumOfThreeIntegers\obj\Debug\1.SumOfThreeIntegers.pdb

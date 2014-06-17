@@ -1,0 +1,8 @@
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTyeps\Problem 4. Variable in Hexadecimal Format\bin\Debug\Problem_4.Variable_in_Hexadecimal_Format.exe.config
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTyeps\Problem 4. Variable in Hexadecimal Format\bin\Debug\Problem_4.Variable_in_Hexadecimal_Format.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTyeps\Problem 4. Variable in Hexadecimal Format\bin\Debug\Problem_4.Variable_in_Hexadecimal_Format.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTyeps\Problem 4. Variable in Hexadecimal Format\obj\Debug\Problem_4.Variable_in_Hexadecimal_Format.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTyeps\Problem 4. Variable in Hexadecimal Format\obj\Debug\Problem_4.Variable_in_Hexadecimal_Format.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 4. Variable in Hexadecimal Format\bin\Debug\Problem_4.Variable_in_Hexadecimal_Format.exe.config
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 4. Variable in Hexadecimal Format\obj\Debug\Problem_4.Variable_in_Hexadecimal_Format.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 4. Variable in Hexadecimal Format\obj\Debug\Problem_4.Variable_in_Hexadecimal_Format.pdb

@@ -1,0 +1,5 @@
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 9. Isosceles Triangle\bin\Debug\Problem_9.Isosceles_Triangle.exe.config
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 9. Isosceles Triangle\bin\Debug\Problem_9.Isosceles_Triangle.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 9. Isosceles Triangle\bin\Debug\Problem_9.Isosceles_Triangle.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 9. Isosceles Triangle\obj\Debug\Problem_9.Isosceles_Triangle.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 9. Isosceles Triangle\obj\Debug\Problem_9.Isosceles_Triangle.pdb

@@ -1,0 +1,4 @@
+c:\users\mariya\documents\visual studio 2012\Projects\06.Loops\05.CalculateFormula\bin\Debug\05.CalculateFormula.exe
+c:\users\mariya\documents\visual studio 2012\Projects\06.Loops\05.CalculateFormula\bin\Debug\05.CalculateFormula.pdb
+c:\users\mariya\documents\visual studio 2012\Projects\06.Loops\05.CalculateFormula\obj\Debug\05.CalculateFormula.exe
+c:\users\mariya\documents\visual studio 2012\Projects\06.Loops\05.CalculateFormula\obj\Debug\05.CalculateFormula.pdb

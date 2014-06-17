@@ -1,0 +1,5 @@
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\5. Conditional-Statements\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\5. Conditional-Statements\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\5. Conditional-Statements\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\5. Conditional-Statements\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\5. Conditional-Statements\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.pdb

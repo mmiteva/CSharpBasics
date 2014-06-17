@@ -1,0 +1,6 @@
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\IntroductionToProgramming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb

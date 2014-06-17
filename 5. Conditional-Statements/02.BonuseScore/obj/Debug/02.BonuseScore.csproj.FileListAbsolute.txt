@@ -1,0 +1,5 @@
+c:\users\mariya\documents\visual studio 2012\Projects\5. Conditional-Statements\02.BonuseScore\bin\Debug\02.BonuseScore.exe
+c:\users\mariya\documents\visual studio 2012\Projects\5. Conditional-Statements\02.BonuseScore\bin\Debug\02.BonuseScore.pdb
+c:\users\mariya\documents\visual studio 2012\Projects\5. Conditional-Statements\02.BonuseScore\obj\Debug\02.BonuseScore.csprojResolveAssemblyReference.cache
+c:\users\mariya\documents\visual studio 2012\Projects\5. Conditional-Statements\02.BonuseScore\obj\Debug\02.BonuseScore.exe
+c:\users\mariya\documents\visual studio 2012\Projects\5. Conditional-Statements\02.BonuseScore\obj\Debug\02.BonuseScore.pdb

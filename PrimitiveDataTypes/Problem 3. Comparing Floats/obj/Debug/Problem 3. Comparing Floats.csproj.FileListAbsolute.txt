@@ -1,0 +1,5 @@
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 3. Comparing Floats\bin\Debug\Problem_3.Comparing_Floats.exe.config
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 3. Comparing Floats\bin\Debug\Problem_3.Comparing_Floats.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 3. Comparing Floats\bin\Debug\Problem_3.Comparing_Floats.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 3. Comparing Floats\obj\Debug\Problem_3.Comparing_Floats.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\PrimitiveDataTypes\Problem 3. Comparing Floats\obj\Debug\Problem_3.Comparing_Floats.pdb

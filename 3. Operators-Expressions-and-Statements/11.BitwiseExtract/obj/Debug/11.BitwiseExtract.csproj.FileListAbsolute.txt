@@ -1,0 +1,4 @@
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\3. Operators-Expressions-and-Statements\11.BitwiseExtract\bin\Debug\11.BitwiseExtract.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\3. Operators-Expressions-and-Statements\11.BitwiseExtract\bin\Debug\11.BitwiseExtract.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\3. Operators-Expressions-and-Statements\11.BitwiseExtract\obj\Debug\11.BitwiseExtract.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\3. Operators-Expressions-and-Statements\11.BitwiseExtract\obj\Debug\11.BitwiseExtract.pdb

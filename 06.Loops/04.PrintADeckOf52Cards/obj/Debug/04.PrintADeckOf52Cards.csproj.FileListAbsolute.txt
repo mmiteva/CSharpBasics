@@ -1,0 +1,5 @@
+c:\users\mariya\documents\visual studio 2012\Projects\06.Loops\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.exe
+c:\users\mariya\documents\visual studio 2012\Projects\06.Loops\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.pdb
+c:\users\mariya\documents\visual studio 2012\Projects\06.Loops\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.exe
+c:\users\mariya\documents\visual studio 2012\Projects\06.Loops\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\06.Loops\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.csprojResolveAssemblyReference.cache

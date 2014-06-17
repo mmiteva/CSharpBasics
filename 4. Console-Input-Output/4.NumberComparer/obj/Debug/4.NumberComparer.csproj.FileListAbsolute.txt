@@ -1,0 +1,7 @@
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\Solution1\4.NumberComparer\bin\Debug\4.NumberComparer.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\Solution1\4.NumberComparer\bin\Debug\4.NumberComparer.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\Solution1\4.NumberComparer\obj\Debug\4.NumberComparer.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\Solution1\4.NumberComparer\obj\Debug\4.NumberComparer.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\Solution1\4.NumberComparer\obj\Debug\4.NumberComparer.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\4.NumberComparer\obj\Debug\4.NumberComparer.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\4.NumberComparer\obj\Debug\4.NumberComparer.pdb

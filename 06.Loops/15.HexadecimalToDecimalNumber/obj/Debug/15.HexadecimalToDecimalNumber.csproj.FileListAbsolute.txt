@@ -1,0 +1,4 @@
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\06.Loops\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\06.Loops\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.pdb
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\06.Loops\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.exe
+C:\Users\Mariya\Documents\Visual Studio 2012\Projects\06.Loops\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.pdb
